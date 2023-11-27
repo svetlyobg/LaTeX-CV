@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  27 NOV 2023 19:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  27 NOV 2023 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,11 +359,11 @@ Package hyperref Info: Link coloring OFF on input line 9.
 \@outlinefile=\write3
 \openout3 = `CV.out'.
 
-<your_photo.jpg, id=4, 643.40375pt x 643.40375pt>
-File: your_photo.jpg Graphic file (type jpg)
-<use your_photo.jpg>
-Package pdftex.def Info: your_photo.jpg  used on input line 17.
-(pdftex.def)             Requested size: 142.26593pt x 142.26593pt.
+<photo.jpg, id=4, 409.53pt x 465.74pt>
+File: photo.jpg Graphic file (type jpg)
+<use photo.jpg>
+Package pdftex.def Info: photo.jpg  used on input line 17.
+(pdftex.def)             Requested size: 125.0908pt x 142.26013pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -415,8 +415,8 @@ Overfull \hbox (6.2554pt too wide) in paragraph at lines 54--60
 
 [1
 
-{C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./your_photo.
-jpg>]
+{C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./photo.jpg>]
+
 Underfull \hbox (badness 10000) in paragraph at lines 67--67
 []|\OT1/cmr/bx/n/10 May
  []
@@ -437,12 +437,12 @@ Underfull \hbox (badness 1132) in paragraph at lines 88--89
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 153--165
+Underfull \hbox (badness 10000) in paragraph at lines 153--163
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 165--172
+Underfull \hbox (badness 10000) in paragraph at lines 163--170
 
  []
 
@@ -456,7 +456,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  9611 strings out of 476036
- 149158 string characters out of 5780295
+ 149123 string characters out of 5780295
  1868763 words of memory out of 5000000
  30234 multiletter control sequences out of 15000+600000
  514948 words of font info for 39 fonts, out of 8000000 for 9000
@@ -467,9 +467,9 @@ Here is how much of TeX's memory you used:
 /cm/cmbx10.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr10.pfb>
-Output written on CV.pdf (3 pages, 165322 bytes).
+Output written on CV.pdf (3 pages, 96997 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 68 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
