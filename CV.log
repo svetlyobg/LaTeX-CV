@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  27 NOV 2023 19:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  27 NOV 2023 19:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -374,9 +374,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--31
  []
 
 
-Package hyperref Warning: Suppressing link with empty target on input line 41.
-
-
 Package hyperref Warning: Suppressing link with empty target on input line 42.
 
 
@@ -473,9 +470,9 @@ Here is how much of TeX's memory you used:
 /cm/cmbx10.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr10.pfb>
-Output written on CV.pdf (3 pages, 97800 bytes).
+Output written on CV.pdf (3 pages, 98069 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
