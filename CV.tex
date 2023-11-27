@@ -1,0 +1,80 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage[left=1in,right=1in,top=1in,bottom=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{array}
+\usepackage{lipsum} % For dummy text, remove in final document
+
+\begin{document}
+	
+	% Contact Information Column
+	\begin{minipage}[t]{0.3\textwidth}
+		\begin{center}
+			\Large\textbf{Your Name}\\[2ex]
+			\includegraphics[width=3cm,height=3cm]{your_photo.jpg} % Insert your photo
+		\end{center}
+		
+		\section*{Contact Information}
+		\begin{tabular}{@{}l l}
+			\textbf{Email:} & your@email.com \\
+			\textbf{Phone:} & +1234567890 \\
+			\textbf{Address:} & Your Address \\
+		\end{tabular}
+		
+		\section*{Current Information}
+		\begin{tabular}{@{}l}
+			Your current position/title \\
+			Company/Institution \\
+			Location \\
+		\end{tabular}
+		
+		\section*{Courses}
+		\begin{itemize}
+			\item Course 1
+			\item Course 2
+			\item Course 3
+		\end{itemize}
+		
+		\section*{Languages}
+		\begin{itemize}
+			\item Language 1 (Proficiency level)
+			\item Language 2 (Proficiency level)
+			\item Language 3 (Proficiency level)
+		\end{itemize}
+	\end{minipage}
+	%
+	% Second Column
+	\hfill
+	\begin{minipage}[t]{0.65\textwidth}
+		\section*{Education}
+		\begin{tabular}{@{}p{0.2\linewidth} p{0.75\linewidth}}
+			Year & Degree/Certification - Institution \\
+			Year & Degree/Certification - Institution \\
+			Year & Degree/Certification - Institution \\
+		\end{tabular}
+		
+		\section*{Work Experience}
+		\begin{tabular}{@{}p{0.2\linewidth} p{0.75\linewidth}}
+			Duration & Position - Company/Organization \\
+			Duration & Position - Company/Organization \\
+			Duration & Position - Company/Organization \\
+		\end{tabular}
+		
+		\section*{Skills}
+		\begin{itemize}
+			\item Skill 1
+			\item Skill 2
+			\item Skill 3
+		\end{itemize}
+		
+		\section*{Projects}
+		\begin{itemize}
+			\item Project 1
+			\item Project 2
+			\item Project 3
+		\end{itemize}
+		
+		\section*{References}
+		Available upon request.
+	\end{minipage}
+	
+\end{document}
