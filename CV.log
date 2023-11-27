@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.11.27)  27 NOV 2023 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.11.27)  27 NOV 2023 16:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,99 +359,110 @@ Package hyperref Info: Link coloring OFF on input line 9.
 <your_photo.jpg, id=4, 643.40375pt x 643.40375pt>
 File: your_photo.jpg Graphic file (type jpg)
 <use your_photo.jpg>
-Package pdftex.def Info: your_photo.jpg  used on input line 18.
-(pdftex.def)             Requested size: 85.35367pt x 85.35367pt.
+Package pdftex.def Info: your_photo.jpg  used on input line 17.
+(pdftex.def)             Requested size: 142.26593pt x 142.26593pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 22.
+(Font)              <7> on input line 21.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 22.
+(Font)              <5> on input line 21.
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--32
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
 
  []
 
 
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 50--50
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 55--55
 []|\OT1/cmr/bx/n/10 2016|2022| 
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 50--51
+Underfull \hbox (badness 3281) in paragraph at lines 55--56
 []|\OT1/cmr/m/n/10 Master's de-gree, Com-puter Tech-nol-
  []
 
 
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 51--51
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 56--56
 []|\OT1/cmr/bx/n/10 2016|2017| 
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 51--52
+Underfull \hbox (badness 1297) in paragraph at lines 56--57
 []|\OT1/cmr/m/n/10 Postgraduate, Ped-a-gogy | []Tech-ni-cal
  []
 
 
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 52--52
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 57--57
 []|\OT1/cmr/bx/n/10 2012|2016| 
  []
 
 
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 53--53
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 58--58
 []|\OT1/cmr/bx/n/10 2008|2012| 
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 53--54
+Underfull \hbox (badness 4531) in paragraph at lines 58--59
 []|\OT1/cmr/m/n/10 High School Diploma, En-glish and
  []
 
 
-Overfull \hbox (6.2554pt too wide) in paragraph at lines 49--55
+Overfull \hbox (6.2554pt too wide) in paragraph at lines 54--60
 [] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|\OT1/cmr/bx/n/10 May
- []
-
-
-Overfull \hbox (25.74152pt too wide) in paragraph at lines 64--64
-\OT1/cmr/bx/n/10 2018|Present| 
- []
-
-
-Overfull \hbox (6.2554pt too wide) in paragraph at lines 63--66
-[] 
- []
-
-
-Overfull \hbox (17.2222pt too wide) in paragraph at lines 15--110
-[][]  [] 
  []
 
 [1
 
 {C:/Users/svetlozar/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./your_p
-hoto.jpg>] (CV.aux)
+hoto.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+[]|\OT1/cmr/bx/n/10 May
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--70
+
+ []
+
+
+Underfull \hbox (badness 3138) in paragraph at lines 88--89
+[]\OT1/cmr/m/n/10 Endpoint Se-cu-rity Man-age-ment Via Avast,
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 88--89
+\OT1/cmr/m/n/10 Syman-tec, Bit-de-fender, Sophos, Trend-Mi-cro,
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 153--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 165--172
+
+ []
+
+[3] (CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9375 strings out of 478338
- 148129 string characters out of 2834811
- 475430 words of memory out of 3000000
- 27699 multiletter control sequences out of 15000+600000
- 471093 words of font info for 34 fonts, out of 8000000 for 9000
+ 9379 strings out of 478338
+ 148146 string characters out of 2834811
+ 470430 words of memory out of 3000000
+ 27697 multiletter control sequences out of 15000+600000
+ 470820 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,11n,77p,230b,428s stack positions out of 10000i,1000n,20000p,200000b,80000s
-<C:/Users/svetlozar/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx10.pfb><C:/Users/svetlozar/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/amsfonts/cm/cmbx12.pfb><C:/Users/svetlozar/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on CV.pdf (1 page, 160260 bytes).
+ 72i,11n,77p,623b,492s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\svetlozar\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1000.pk><C:/Users/svetlozar/AppData/Local/Programs/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmbx10.pfb><C:/Users/svetlozar/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/svetlozar/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on CV.pdf (3 pages, 165369 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
+ 67 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
