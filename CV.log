@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  27 NOV 2023 21:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  15 DEC 2023 19:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -455,21 +455,23 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9611 strings out of 476036
- 149123 string characters out of 5780295
+ 9615 strings out of 476036
+ 149168 string characters out of 5780295
  1868763 words of memory out of 5000000
- 30234 multiletter control sequences out of 15000+600000
- 514948 words of font info for 39 fonts, out of 8000000 for 9000
+ 30236 multiletter control sequences out of 15000+600000
+ 515653 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,230b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,526b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Rumi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1
 000.pk><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1/public/
 amsfonts/cm/cmbx12.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr10.pfb>
-Output written on CV.pdf (3 pages, 98334 bytes).
+/public/amsfonts/cm/cmbxti10.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rumi/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on CV.pdf (3 pages, 131755 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 84 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
