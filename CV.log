@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  15 DEC 2023 19:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  17 DEC 2023 20:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,7 +457,7 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 Here is how much of TeX's memory you used:
  9615 strings out of 476036
  149168 string characters out of 5780295
- 1868763 words of memory out of 5000000
+ 1869763 words of memory out of 5000000
  30236 multiletter control sequences out of 15000+600000
  515653 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -469,7 +469,7 @@ amsfonts/cm/cmbx12.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmbxti10.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rumi/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (3 pages, 131755 bytes).
+Output written on CV.pdf (3 pages, 131750 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
