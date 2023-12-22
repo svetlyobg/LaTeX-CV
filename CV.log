@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  17 DEC 2023 20:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.11.26)  22 DEC 2023 12:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -275,24 +275,24 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 ) (CV.aux)
 \openout1 = `CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -354,7 +354,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 9.
+Package hyperref Info: Link coloring OFF on input line 11.
  (CV.out) (CV.out)
 \@outlinefile=\write3
 \openout3 = `CV.out'.
@@ -362,54 +362,54 @@ Package hyperref Info: Link coloring OFF on input line 9.
 <photo.jpg, id=4, 409.53pt x 465.74pt>
 File: photo.jpg Graphic file (type jpg)
 <use photo.jpg>
-Package pdftex.def Info: photo.jpg  used on input line 17.
+Package pdftex.def Info: photo.jpg  used on input line 19.
 (pdftex.def)             Requested size: 125.0908pt x 142.26013pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 21.
+(Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 21.
+(Font)              <5> on input line 23.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 
- []
-
-
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 63--63
-[]|\OT1/cmr/bx/n/10 2016|2022| 
- []
-
-
-Underfull \hbox (badness 3281) in paragraph at lines 63--64
-[]|\OT1/cmr/m/n/10 Master's de-gree, Com-puter Tech-nol-
- []
-
-
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 64--64
-[]|\OT1/cmr/bx/n/10 2016|2017| 
- []
-
-
-Underfull \hbox (badness 1297) in paragraph at lines 64--65
-[]|\OT1/cmr/m/n/10 Postgraduate, Ped-a-gogy | []Tech-ni-cal
- []
-
-
-Overfull \hbox (10.52492pt too wide) in paragraph at lines 65--65
-[]|\OT1/cmr/bx/n/10 2012|2016| 
  []
 
 
 Overfull \hbox (10.52492pt too wide) in paragraph at lines 66--66
+[]|\OT1/cmr/bx/n/10 2016|2022| 
+ []
+
+
+Underfull \hbox (badness 3281) in paragraph at lines 66--67
+[]|\OT1/cmr/m/n/10 Master's de-gree, Com-puter Tech-nol-
+ []
+
+
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 67--67
+[]|\OT1/cmr/bx/n/10 2016|2017| 
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 67--68
+[]|\OT1/cmr/m/n/10 Postgraduate, Ped-a-gogy | []Tech-ni-cal
+ []
+
+
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 68--68
+[]|\OT1/cmr/bx/n/10 2012|2016| 
+ []
+
+
+Overfull \hbox (10.52492pt too wide) in paragraph at lines 69--69
 []|\OT1/cmr/bx/n/10 2008|2012| 
  []
 
 
-Underfull \hbox (badness 4531) in paragraph at lines 66--67
+Underfull \hbox (badness 4531) in paragraph at lines 69--70
 []|\OT1/cmr/m/n/10 High School Diploma, En-glish and
  []
 
 
-Overfull \hbox (6.2554pt too wide) in paragraph at lines 62--68
+Overfull \hbox (6.2554pt too wide) in paragraph at lines 65--71
 [] 
  []
 
@@ -417,32 +417,32 @@ Overfull \hbox (6.2554pt too wide) in paragraph at lines 62--68
 
 {C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./photo.jpg>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []|\OT1/cmr/bx/n/10 May
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 133--135
+Underfull \hbox (badness 3138) in paragraph at lines 136--138
 []\OT1/cmr/m/n/10 Endpoint Se-cu-rity Man-age-ment Via Avast,
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 133--135
+Underfull \hbox (badness 1132) in paragraph at lines 136--138
 \OT1/cmr/m/n/10 Syman-tec, Bit-de-fender, Sophos, Trend-Mi-cro,
  []
 
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 102--199
+Overfull \hbox (14.99998pt too wide) in paragraph at lines 105--202
 [][][] 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 216--224
+Underfull \hbox (badness 10000) in paragraph at lines 219--227
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 226--232
+Underfull \hbox (badness 10000) in paragraph at lines 229--235
 
  []
 
@@ -455,10 +455,10 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9615 strings out of 476036
- 149168 string characters out of 5780295
+ 9617 strings out of 476036
+ 149189 string characters out of 5780295
  1869763 words of memory out of 5000000
- 30236 multiletter control sequences out of 15000+600000
+ 30238 multiletter control sequences out of 15000+600000
  515653 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,526b,431s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -469,7 +469,7 @@ amsfonts/cm/cmbx12.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmbxti10.pfb><C:/Users/Rumi/AppData/Local/Programs/MiKTeX/f
 onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Rumi/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (3 pages, 131750 bytes).
+Output written on CV.pdf (3 pages, 131685 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)

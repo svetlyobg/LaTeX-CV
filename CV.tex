@@ -6,6 +6,8 @@
 \usepackage{soul}
 \usepackage{hyperref}
 
+\newcommand{\redact}[1]{\textcolor{black!40}{#1}}
+
 \begin{document}
 	\pagestyle{empty} % Remove page numbers
 	
@@ -20,8 +22,9 @@
 			\section*{Contact Information}
 			\begin{tabular}{@{}l l}
 				\textbf{Email:}   & \href{mailto:svetlozar@itproblems.work}{svetlozar@itproblems.work} \\
-				\textbf{Phone:} & \textcolor{black}{\st{Redacted for Privacy}} \\
-				\textbf{Address:} & Gabrovo, Bulgaria                                                  \\
+				%\textbf{Phone:} & \textcolor{black}{\st{Redacted for Privacy}} \\
+				\textbf{Phone:} & \redact{\st{Redacted for Privacy}} \\
+				\textbf{Location:} & Gabrovo, Bulgaria                                                  \\
 			\end{tabular}
 			
 			\section*{Current Information}
