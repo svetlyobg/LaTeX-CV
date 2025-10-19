@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.26)  11 OCT 2025 16:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.8.26)  19 OCT 2025 17:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -351,11 +351,11 @@ Package hyperref Info: Link coloring OFF on input line 11.
 \@outlinefile=\write3
 \openout3 = `CV.out'.
 
-<photo.jpg, id=4, 835.12pt x 835.12pt>
-File: photo.jpg Graphic file (type jpg)
-<use photo.jpg>
-Package pdftex.def Info: photo.jpg  used on input line 19.
-(pdftex.def)             Requested size: 142.2616pt x 142.2616pt.
+<cover-oct-2025.png, id=4, 267.6399pt x 267.6399pt>
+File: cover-oct-2025.png Graphic file (type png)
+<use cover-oct-2025.png>
+Package pdftex.def Info: cover-oct-2025.png  used on input line 19.
+(pdftex.def)             Requested size: 142.2691pt x 142.2691pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 23.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -407,8 +407,8 @@ Overfull \hbox (6.2554pt too wide) in paragraph at lines 65--71
 
 [1
 
-{C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./photo.jpg>]
-
+{C:/Users/Rumi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./cover-oct-2
+025.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 101--101
 []|\OT1/cmr/bx/n/10 May
  []
@@ -429,133 +429,6 @@ Overfull \hbox (14.99998pt too wide) in paragraph at lines 105--202
  []
 
 [2]
-
-! LaTeX Error: Unicode character А (U+0410)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character л (U+043B)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character ь (U+044C)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character а (U+0430)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character н (U+043D)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character д (U+0434)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character е (U+0435)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-! LaTeX Error: Unicode character р (U+0440)
-               not set up for use with LaTeX.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.219 ...ed with Svetlozar but on different teams}
-                                                  ) — It was very encourag...
-
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 219--220
 
  []
@@ -584,10 +457,10 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9659 strings out of 474484
- 149573 string characters out of 5753527
+ 9651 strings out of 474484
+ 149596 string characters out of 5753527
  1941542 words of memory out of 5000000
- 31832 multiletter control sequences out of 15000+600000
+ 31824 multiletter control sequences out of 15000+600000
  560335 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,526b,436s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -597,9 +470,9 @@ rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (3 pages, 226993 bytes).
+Output written on CV.pdf (3 pages, 12931347 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
