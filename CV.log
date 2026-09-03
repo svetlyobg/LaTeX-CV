@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  29 MAR 2026 20:30
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  3 SEP 2026 13:18
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -440,7 +440,7 @@ Overfull \hbox (6.2554pt too wide) in paragraph at lines 65--71
 {C:/Users/Svet/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./28-March-2026
 .JPG>]
 Underfull \hbox (badness 10000) in paragraph at lines 101--101
-[]|\TU/lmr/bx/n/10 May
+[]|\TU/lmr/bx/n/10 2 May 2018—2
  []
 
 
@@ -503,7 +503,7 @@ c/lm/lmroman10-italic.otf><//?/c:/users/svet/appdata/local/programs/miktex/fonts
 /opentype/public/lm/lmroman10-regular.otf><//?/c:/users/svet/appdata/local/progr
 ams/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><c:/users/svet/appdata/lo
 cal/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf>
-Output written on CV.pdf (3 pages, 1195142 bytes).
+Output written on CV.pdf (3 pages, 1195542 bytes).
 
 PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 1048576)
