@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  22 SEP 2026 12:09
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  24 SEP 2026 19:10
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -439,37 +439,37 @@ Overfull \hbox (6.2554pt too wide) in paragraph at lines 65--71
 
 {C:/Users/Svet/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./28-March-2026
 .JPG>]
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
 []|\TU/lmr/bx/n/10 2 May 2018—2
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 136--138
+Underfull \hbox (badness 3668) in paragraph at lines 139--141
 []\TU/lmr/m/n/10 End-point Se-cu-rity Man-age-ment Via Avast,
  []
 
 
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 105--202
+Overfull \hbox (14.99998pt too wide) in paragraph at lines 108--205
 [][][] 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 221--222
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--232
+Underfull \hbox (badness 10000) in paragraph at lines 227--235
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 234--240
+Underfull \hbox (badness 10000) in paragraph at lines 237--243
 
  []
 
@@ -488,7 +488,7 @@ Here is how much of LuaTeX's memory you used:
  477 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 8 attribute, 52 glue_spec,
  8 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 2:744,3:420,4:184,5:520,6:121,7:8427,8:1,9:780,10:14,11:671
+   avail lists: 2:750,3:435,4:184,5:520,6:124,7:8427,8:1,9:798,10:14,11:671
  32207 multiletter control sequences out of 65536+600000
  31 fonts using 2086295 bytes
  72i,11n,75p,524b,380s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -498,7 +498,7 @@ c/lm/lmroman10-italic.otf><//?/c:/users/svet/appdata/local/programs/miktex/fonts
 /opentype/public/lm/lmroman10-regular.otf><//?/c:/users/svet/appdata/local/progr
 ams/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><c:/users/svet/appdata/lo
 cal/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf>
-Output written on CV.pdf (3 pages, 1195555 bytes).
+Output written on CV.pdf (3 pages, 1195700 bytes).
 
 PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 1048576)
