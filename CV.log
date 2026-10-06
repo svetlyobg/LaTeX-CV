@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  26 SEP 2026 12:11
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  6 OCT 2026 16:42
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -165,7 +165,78 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-)) (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
+)) (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count288
+\mult@box=\box55
+\multicol@leftmargin=\dimen169
+\c@unbalance=\count289
+\c@collectmore=\count290
+\doublecol@number=\count291
+\multicoltolerance=\count292
+\multicolpretolerance=\count293
+\full@width=\dimen170
+\page@free=\dimen171
+\premulticols=\dimen172
+\postmulticols=\dimen173
+\multicolsep=\skip54
+\multicolbaselineskip=\skip55
+\partial@page=\box56
+\last@line=\box57
+\mc@boxedresult=\box58
+\maxbalancingoverflow=\dimen174
+\mult@rightbox=\box59
+\mult@grightbox=\box60
+\mult@firstbox=\box61
+\mult@gfirstbox=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\c@minrows=\count294
+\c@columnbadness=\count295
+\c@finalcolumnbadness=\count296
+\last@try=\dimen175
+\multicolovershoot=\dimen176
+\multicolundershoot=\dimen177
+\mult@nat@firstbox=\box99
+\colbreak@box=\box100
+\mc@col@check@num=\count297
+\g__mc_curr_col_int=\count298
+)
+(C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
@@ -206,26 +277,26 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count288
+\c@section@level=\count299
 ) (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count289
+\etb@tempcnta=\count300
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/generic/stringenc/stringenc.st
 y
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen169
-\Hy@linkcounter=\count290
-\Hy@pagecounter=\count291
+\@linkdim=\dimen178
+\Hy@linkcounter=\count301
+\Hy@pagecounter=\count302
  (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count292
+\Hy@SavedSpaceFactor=\count303
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
@@ -237,14 +308,14 @@ Package hyperref Info: Plain pages OFF on input line 4216.
 Package hyperref Info: Backreferencing OFF on input line 4221.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4468.
-\c@Hy@tempcnt=\count293
+\c@Hy@tempcnt=\count304
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4807.
-\XeTeXLinkMargin=\dimen170
+\XeTeXLinkMargin=\dimen179
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -254,9 +325,9 @@ sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count294
-\Field@Width=\dimen171
-\Fld@charsize=\dimen172
+\Fld@menulength=\count305
+\Field@Width=\dimen180
+\Fld@charsize=\dimen181
 Package hyperref Info: Hyper figures OFF on input line 6084.
 Package hyperref Info: Link nesting OFF on input line 6089.
 Package hyperref Info: Hyper index ON on input line 6092.
@@ -264,16 +335,16 @@ Package hyperref Info: backreferencing OFF on input line 6099.
 Package hyperref Info: Link coloring OFF on input line 6104.
 Package hyperref Info: Link coloring with OCG OFF on input line 6109.
 Package hyperref Info: PDF/A mode OFF on input line 6114.
-\Hy@abspage=\count295
-\c@Item=\count296
-\c@Hfootnote=\count297
+\Hy@abspage=\count306
+\c@Item=\count307
+\c@Hfootnote=\count308
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
 File: hluatex.def 2026-01-29 v7.01p Hyperref driver for luaTeX
-\Fld@listcount=\count298
-\c@bookmark@seq@number=\count299
+\Fld@listcount=\count309
+\c@bookmark@seq@number=\count310
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfile
 check.sty
@@ -286,35 +357,35 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 84.
 )
-\Hy@SectionHShift=\skip54
+\Hy@SectionHShift=\skip56
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-luat
 ex.def
 File: l3backend-luatex.def 2025-10-09 L3 backend support: PDF output (LuaTeX)
-\l__color_backend_stack_int=\count300
+\l__color_backend_stack_int=\count311
 Inserting `l3color' in `luaotfload.parse_color'.) (./CV.aux)
 \openout1 = CV.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -354,16 +425,16 @@ LaTeX Font Info:    ... okay on input line 11.
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mki
 i
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count301
-\scratchdimen=\dimen173
-\scratchbox=\box55
-\nofMPsegments=\count302
-\nofMParguments=\count303
+\scratchcounter=\count312
+\scratchdimen=\dimen182
+\scratchbox=\box101
+\nofMPsegments=\count313
+\nofMParguments=\count314
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count304
-\MPscratchDim=\dimen174
-\MPnumerator=\count305
-\makeMPintoPDFobject=\count306
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen183
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
 \everyMPtoPDFconversion=\toks28
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-ba
@@ -376,7 +447,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 g
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 11.
+Package hyperref Info: Link coloring OFF on input line 13.
  (./CV.out) (./CV.out)
 \@outlinefile=\write3
 
@@ -384,96 +455,21 @@ Package hyperref Info: Link coloring OFF on input line 11.
 <28-March-2026.JPG, id=4, 906.9885pt x 906.9885pt>
 File: 28-March-2026.JPG Graphic file (type jpg)
 <use 28-March-2026.JPG>
-Package luatex.def Info: 28-March-2026.JPG  used on input line 19.
+Package luatex.def Info: 28-March-2026.JPG  used on input line 21.
 (luatex.def)             Requested size: 142.25633pt x 142.25633pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
+(Font)              <7> on input line 25.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+(Font)              <5> on input line 25.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
 
- []
-
-
-Overfull \hbox (10.52522pt too wide) in paragraph at lines 66--66
-[]|\TU/lmr/bx/n/10 2016—2022| 
- []
-
-
-Underfull \hbox (badness 3302) in paragraph at lines 66--67
-[]|\TU/lmr/m/n/10 Mas-ter’s de-gree, Com-puter Tech-nol-
- []
-
-
-Overfull \hbox (10.52522pt too wide) in paragraph at lines 67--67
-[]|\TU/lmr/bx/n/10 2016—2017| 
- []
-
-
-Underfull \hbox (badness 1303) in paragraph at lines 67--68
-[]|\TU/lmr/m/n/10 Post-grad-u-ate, Ped-a-gogy — []Tech-ni-cal
- []
-
-
-Overfull \hbox (10.52522pt too wide) in paragraph at lines 68--68
-[]|\TU/lmr/bx/n/10 2012—2016| 
- []
-
-
-Overfull \hbox (10.52522pt too wide) in paragraph at lines 69--69
-[]|\TU/lmr/bx/n/10 2008—2012| 
- []
-
-
-Underfull \hbox (badness 4531) in paragraph at lines 69--70
-[]|\TU/lmr/m/n/10 High School Diploma, En-glish and
- []
-
-
-Overfull \hbox (6.2554pt too wide) in paragraph at lines 65--71
-[] 
  []
 
 [1
 
 {C:/Users/Svet/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./28-March-2026
-.JPG>] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 108--108
-[]|\TU/lmr/bx/n/10 2 May 2018—2
- []
-
-
-Underfull \hbox (badness 3668) in paragraph at lines 143--145
-[]\TU/lmr/m/n/10 End-point Se-cu-rity Man-age-ment Via Avast,
- []
-
-
-Overfull \hbox (14.99998pt too wide) in paragraph at lines 112--211
-[][][] 
- []
-
-[3]
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 230--231
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 233--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 243--249
-
- []
-
-[4] (./CV.aux)
+.JPG>] [2] [3] (./CV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -483,24 +479,22 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 9925 strings out of 476076
+ 10073 strings out of 476076
  100000,662416 words of node,token memory allocated
- 477 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 8 attribute, 52 glue_spec,
- 8 attribute_list, 1 write, 2 pdf_action nodes
-   avail lists: 2:778,3:367,4:188,5:520,6:106,7:8427,8:1,9:709,10:14,11:671
- 32207 multiletter control sequences out of 65536+600000
+ 500 words of node memory still in use:
+   5 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 8 attribute, 56 glue_spec,
+ 8 attribute_list, 1 write, 1 pdf_action nodes
+   avail lists: 2:832,3:351,4:202,5:325,6:105,7:4810,8:1,9:635,10:14,11:403
+ 32352 multiletter control sequences out of 65536+600000
  31 fonts using 2086295 bytes
- 72i,11n,75p,524b,398s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/users/svet/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-
-bolditalic.otf><c:/users/svet/appdata/local/programs/miktex/fonts/opentype/publi
-c/lm/lmroman10-italic.otf><//?/c:/users/svet/appdata/local/programs/miktex/fonts
-/opentype/public/lm/lmroman10-regular.otf><//?/c:/users/svet/appdata/local/progr
-ams/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><c:/users/svet/appdata/lo
-cal/programs/miktex/fonts/opentype/public/lm/lmroman12-bold.otf>
-Output written on CV.pdf (4 pages, 1196854 bytes).
+ 72i,11n,75p,495b,380s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<//?/c:/users/svet/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroma
+n10-regular.otf><//?/c:/users/svet/appdata/local/programs/miktex/fonts/opentype/
+public/lm/lmroman10-bold.otf><c:/users/svet/appdata/local/programs/miktex/fonts/
+opentype/public/lm/lmroman12-bold.otf>
+Output written on CV.pdf (3 pages, 1176470 bytes).
 
-PDF statistics: 95 PDF objects out of 1000 (max. 8388607)
- 17 named destinations out of 1000 (max. 1048576)
+PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
