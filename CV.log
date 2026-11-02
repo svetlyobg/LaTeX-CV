@@ -1,9 +1,9 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 26.1) (format=lualatex 2026.2.15)  8 OCT 2026 21:32
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.10.23)  2 NOV 2026 11:11
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
 LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+L3 programming layer <2025-12-24>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
 Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended 
@@ -237,7 +237,7 @@ Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
 \g__mc_curr_col_int=\count298
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
@@ -265,7 +265,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/nameref.sty
-Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -291,7 +291,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Hy@linkcounter=\count301
 \Hy@pagecounter=\count302
  (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 )
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -299,22 +299,22 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 \Hy@SavedSpaceFactor=\count303
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/puenc.def
-File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4201.
-Package hyperref Info: Link nesting OFF on input line 4206.
-Package hyperref Info: Hyper index ON on input line 4209.
-Package hyperref Info: Plain pages OFF on input line 4216.
-Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4468.
+Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count304
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4807.
+LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen179
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/generic/bitset/bitset.sty
@@ -328,13 +328,13 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 \Fld@menulength=\count305
 \Field@Width=\dimen180
 \Fld@charsize=\dimen181
-Package hyperref Info: Hyper figures OFF on input line 6084.
-Package hyperref Info: Link nesting OFF on input line 6089.
-Package hyperref Info: Hyper index ON on input line 6092.
-Package hyperref Info: backreferencing OFF on input line 6099.
-Package hyperref Info: Link coloring OFF on input line 6104.
-Package hyperref Info: Link coloring with OCG OFF on input line 6109.
-Package hyperref Info: PDF/A mode OFF on input line 6114.
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
 \Hy@abspage=\count306
 \c@Item=\count307
 \c@Hfootnote=\count308
@@ -342,7 +342,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 Package hyperref Info: Driver (autodetected): hluatex.
 
 (C:/Users/Svet/AppData/Local/Programs/MiKTeX/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2026-01-29 v7.01p Hyperref driver for luaTeX
+File: hluatex.def 2025-07-12 v7.01o Hyperref driver for luaTeX
 \Fld@listcount=\count309
 \c@bookmark@seq@number=\count310
 
@@ -467,27 +467,27 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 .JPG>] [2] (./CV.aux)
  ***********
 LaTeX2e <2025-11-01>
-L3 programming layer <2026-01-19>
+L3 programming layer <2025-12-24>
  ***********
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10072 strings out of 476076
+ 10072 strings out of 476081
  100000,662416 words of node,token memory allocated
  500 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 8 attribute, 56 glue_spec,
  8 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 2:902,3:388,4:230,5:459,6:119,7:7212,8:1,9:695,10:14,11:634
- 32352 multiletter control sequences out of 65536+600000
+   avail lists: 2:902,3:388,4:230,5:459,6:119,7:7236,8:1,9:695,10:14,11:634
+ 32347 multiletter control sequences out of 65536+600000
  31 fonts using 2086295 bytes
  72i,11n,75p,495b,380s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/svet/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroma
 n10-regular.otf><//?/c:/users/svet/appdata/local/programs/miktex/fonts/opentype/
 public/lm/lmroman10-bold.otf><c:/users/svet/appdata/local/programs/miktex/fonts/
 opentype/public/lm/lmroman12-bold.otf>
-Output written on CV.pdf (2 pages, 1176534 bytes).
+Output written on CV.pdf (2 pages, 1176543 bytes).
 
 PDF statistics: 61 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 1048576)
