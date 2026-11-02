@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.10.23)  2 NOV 2026 11:17
+This is LuaHBTeX, Version 1.24.0 (MiKTeX 25.12) (format=lualatex 2026.10.23)  2 NOV 2026 11:18
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -464,7 +464,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Svet/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./28-March-2026
-.JPG>] [2] [3] (./CV.aux)
+.JPG>] [2] [3] [4] (./CV.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-12-24>
@@ -474,22 +474,22 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 10073 strings out of 476081
+ 10074 strings out of 476081
  100000,662416 words of node,token memory allocated
  500 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 3 glyph, 8 attribute, 56 glue_spec,
  8 attribute_list, 1 write, 1 pdf_action nodes
-   avail lists: 2:888,3:378,4:228,5:349,6:118,7:5724,8:1,9:535,10:15,11:438
+   avail lists: 2:792,3:355,4:188,5:357,6:95,7:7252,8:1,9:521,10:15,11:662
  32347 multiletter control sequences out of 65536+600000
  31 fonts using 2086295 bytes
- 72i,11n,75p,495b,400s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,75p,495b,516s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/svet/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroma
 n10-regular.otf><//?/c:/users/svet/appdata/local/programs/miktex/fonts/opentype/
 public/lm/lmroman10-bold.otf><c:/users/svet/appdata/local/programs/miktex/fonts/
 opentype/public/lm/lmroman12-bold.otf>
-Output written on CV.pdf (3 pages, 1177730 bytes).
+Output written on CV.pdf (4 pages, 1178910 bytes).
 
-PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 1048576)
+PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
