@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2026.10.21)  2 NOV 2026 12:59
+This is LuaHBTeX, Version 1.14.0 (TeX Live 2022/dev/Debian)  (format=lualatex 2026.10.21)  2 NOV 2026 13:00
  restricted system commands enabled.
 **CV.tex
 (./CV.tex
@@ -367,16 +367,16 @@ LaTeX Font Info:    ... okay on input line 20.
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
 * driver: luatex
-* paper: letterpaper
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=469.75502pt
-* \textheight=650.43001pt
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-37.0pt
@@ -384,7 +384,7 @@ LaTeX Font Info:    ... okay on input line 20.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
+* \marginparwidth=57.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -463,7 +463,7 @@ Here is how much of LuaTeX's memory you used:
  446 words of node memory still in use:
    5 hlist, 1 vlist, 1 rule, 2 glue, 2 glyph, 56 glue_spec, 1 write, 1 pdf_actio
 n nodes
-   avail lists: 1:1,2:28,3:264,4:136,5:329,6:79,7:5388,8:30,9:440,10:15,11:464
+   avail lists: 1:1,2:28,3:266,4:136,5:329,6:79,7:5390,8:30,9:444,10:15,11:464
  30719 multiletter control sequences out of 65536+600000
  33 fonts using 1376899 bytes
  60i,11n,59p,495b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -471,7 +471,7 @@ n nodes
 s/lm/lm-rm.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/te
 xmf/fonts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr
 10.pfb>
-Output written on CV.pdf (3 pages, 1240552 bytes).
+Output written on CV.pdf (3 pages, 1240592 bytes).
 
 PDF statistics: 51 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
